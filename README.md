@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/31e600b6-bb94-46c3-8085-f9e4edbf9e3e" /># 💫 About Me:
  *🧠 I'm Rahul Shingha<br>*🌍 I'm based in Bangladesh<br>* ✉️  You can contact me at [rahulshingha313@gmail.com]<br>* 🚀  I'm currently working on (curency converter app)<br>* 🧠  I'm currently learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App & Game Development - Open-source utilities and tools - Competitive programming projects.<br>* 💬  Ask me about Problem-solving enthusiast 🧠 - Learning AI & Machine Learning 🤖 - Enjoy building productivity apps and games 🎮 - Open to new challenges and collaborations 🚀
 
 
@@ -24,6 +24,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img align="right" alt="coding" width="400" src="<img width="1281" height="716" alt="image" src="https://github.com/user-attachments/assets/f33e9964-c076-4bb9-9da3-d701fee3b834" />
+">
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahul-3613&limit=5&theme=dark&combine_all_yearly_contributions=true)
