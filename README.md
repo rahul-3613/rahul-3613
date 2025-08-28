@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img width="681" height="216" alt="image" src="https://github.com/user-attachments/assets/31e600b6-bb94-46c3-8085-f9e4edbf9e3e" >
+<img width="481" height="216" alt="image" src="https://github.com/user-attachments/assets/31e600b6-bb94-46c3-8085-f9e4edbf9e3e" >
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahul-3613&limit=5&theme=dark&combine_all_yearly_contributions=true)
