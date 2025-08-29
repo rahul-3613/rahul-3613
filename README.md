@@ -1,8 +1,23 @@
 ![logo](https://github.com/rahul-3613/rahul-3613/blob/main/Purple%20and%20Pink%20Minimalist%20Front-End%20Developer%20LinkedIn%20Banner.png)
+
+
+<p align="center">
+  <a href="https://github.com/rahul-3613">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Rahul Shingha" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20%26%20App%20Developer;Unity%20Game%20Enthusiast;C%2C%20C%2B%2B%20%26%20Java%20Programmer;Always%20Learning%20%26%20Building&font=Fira%20Code&center=true&width=680&height=60&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+
 # 💫 About Me:  
-<!-- 
-✨ Welcome to Rahul Shingha's GitHub Profile ✨
--->
+
+
 🌍 I'm based in Bangladesh<br>* ✉️  You can contact me at [rahulshingha313@gmail.com]<br>* 🚀  I'm currently working on (curency converter app)<br>* 🧠  I'm currently learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App & Game Development - Open-source utilities and tools - Competitive programming projects.<br>* 💬  Ask me about Problem-solving enthusiast 🧠 - Learning AI & Machine Learning 🤖 - Enjoy building productivity apps and games 🎮 - Open to new challenges and collaborations 
 
 📊 **this week i spent my time on:**
