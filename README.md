@@ -3,8 +3,20 @@
 <!-- 
 ✨ Welcome to Rahul Shingha's GitHub Profile ✨
 -->
-🌍 I'm based in Bangladesh<br>* ✉️  You can contact me at [rahulshingha313@gmail.com]<br>* 🚀  I'm currently working on (curency converter app)<br>* 🧠  I'm currently learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App & Game Development - Open-source utilities and tools - Competitive programming projects.<br>* 💬  Ask me about Problem-solving enthusiast 🧠 - Learning AI & Machine Learning 🤖 - Enjoy building productivity apps and games 🎮 - Open to new challenges and collaborations 🚀
+🌍 I'm based in Bangladesh<br>* ✉️  You can contact me at [rahulshingha313@gmail.com]<br>* 🚀  I'm currently working on (curency converter app)<br>* 🧠  I'm currently learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App & Game Development - Open-source utilities and tools - Competitive programming projects.<br>* 💬  Ask me about Problem-solving enthusiast 🧠 - Learning AI & Machine Learning 🤖 - Enjoy building productivity apps and games 🎮 - Open to new challenges and collaborations 
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   7 hrs           ████████████████████▒░░░░   81.32 %
+Markdown     38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+SCSS         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+CSS          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+```
+
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RahulShingha) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rahulshingha6152) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulshingha313@gmail.com) 
