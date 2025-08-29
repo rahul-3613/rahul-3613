@@ -1,18 +1,18 @@
 ![logo](https://github.com/rahul-3613/rahul-3613/blob/main/Purple%20and%20Pink%20Minimalist%20Front-End%20Developer%20LinkedIn%20Banner.png)
 
 
-<p align="center">
-  <a href="https://github.com/rahul-3613">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Rahul Shingha" />
-  </a>
-</p>
+
+
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20%26%20App%20Developer;Unity%20Game%20Enthusiast;C%2C%20C%2B%2B%20%26%20Java%20Programmer;Always%20Learning%20%26%20Building&font=Fira%20Code&center=true&width=680&height=60&color=f75c7e&vCenter=true&pause=1000&size=22" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF5733&center=true&width=600&lines=%22Welcome%20my%20GitHub%20Portfolio%22" />
 </p>
+
+
+
+
+
+
 
 
 # 💫 About Me:  
