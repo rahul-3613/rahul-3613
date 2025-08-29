@@ -21,6 +21,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rahul-3613&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-3613&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+### 🌟 Tech & Life Emoji Grid 🚀
+
+|   Code Magic   |    Digital Life    |  Nature & Mood   |   Cosmic Vibes   |
+| :------------: | :---------------: | :-------------: | :-------------: |
+| 🧠 `think`     | 🎮 `gaming`       | 🌈 `rainbow`    | 🚀 `launch`     |
+| 💻 `terminal`  | 🎧 `playlist`     | 🌊 `ocean`      | 🌌 `nebula`     |
+| 🔍 `debug`     | 🎨 `design`       | 🌱 `grow`       | ☄️ `comet`      |
+| 🛠️ `fix`       | 🎥 `stream`       | ⚡ `energy`     | 🌠 `wish`       |
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
