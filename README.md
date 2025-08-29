@@ -1,6 +1,9 @@
 ![logo](https://github.com/rahul-3613/rahul-3613/blob/main/Purple%20and%20Pink%20Minimalist%20Front-End%20Developer%20LinkedIn%20Banner.png)
-# 💫 About Me:
- *🧠 I'm Rahul Shingha<br>*🌍 I'm based in Bangladesh<br>* ✉️  You can contact me at [rahulshingha313@gmail.com]<br>* 🚀  I'm currently working on (curency converter app)<br>* 🧠  I'm currently learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App & Game Development - Open-source utilities and tools - Competitive programming projects.<br>* 💬  Ask me about Problem-solving enthusiast 🧠 - Learning AI & Machine Learning 🤖 - Enjoy building productivity apps and games 🎮 - Open to new challenges and collaborations 🚀
+# 💫 About Me:  
+<!-- 
+✨ Welcome to Rahul Shingha's GitHub Profile ✨
+-->
+🌍 I'm based in Bangladesh<br>* ✉️  You can contact me at [rahulshingha313@gmail.com]<br>* 🚀  I'm currently working on (curency converter app)<br>* 🧠  I'm currently learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App & Game Development - Open-source utilities and tools - Competitive programming projects.<br>* 💬  Ask me about Problem-solving enthusiast 🧠 - Learning AI & Machine Learning 🤖 - Enjoy building productivity apps and games 🎮 - Open to new challenges and collaborations 🚀
 
 
 ## 🌐 Socials:
