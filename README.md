@@ -64,6 +64,35 @@ JSON         11 mins         ▓░░░░░░░░░░░░░░░░
 
 <img width="481" height="216" alt="image" src="https://github.com/user-attachments/assets/31e600b6-bb94-46c3-8085-f9e4edbf9e3e" >
 
+
+
+My Automation Workflow Architecture
+
+```mermaid
+graph TD
+
+    A[WhatsApp User] -->|Sends Message| B[WhatsApp Cloud API Webhook]
+
+    B --> C[n8n Webhook Trigger]
+
+    C --> D[Router Node]
+    D -->|New User| E[Create User in Database]
+    D -->|Existing User| F[Fetch User Profile]
+
+    D -->|Command Based| G[Command Handler]
+    D -->|Normal Text| H[AI Reply Generator]
+
+    G --> I[Generate Template Reply]
+    H --> I
+
+    I --> J[Send WhatsApp Message via API]
+
+    J --> K[Log Message to DB/Sheet]
+    K --> L[Analytics Dashboard]
+```
+
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rahul-3613&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
