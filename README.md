@@ -18,7 +18,7 @@
 # 💫 About Me:  
 
 
-🌍 I'm based in Bangladesh<br>* 🚀  I'm currently working on (curency converter app)<br>* 🧠  And learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App & Game Development<br>* 💬  Ask me about Problem-solving enthusiast<br>* 🤖 - Enjoy building productivity apps and games <br>* 🎮 - Open to new challenges and collaborations <br>*✉️  You can contact me at [rahulshingha313@gmail.com]
+🌍 I'm based in Bangladesh<br>* 🚀  I'm currently working on (LifeDrop app)<br>* 🧠  And learning c programming and c++ both.<br>* 👥  I'm looking to collaborate on App Development<br>* 💬  Ask me about Problem-solving enthusiast<br>* 🤖 - Enjoy building productivity apps and games <br>* 🎮 - Open to new challenges and collaborations <br>*✉️  You can contact me at [rahulshingha313@gmail.com]
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
